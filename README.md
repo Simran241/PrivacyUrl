@@ -64,3 +64,4 @@ You can modify the `src/App.vue` and `src/components/HelloWorld.vue` files to cu
 
 This project is licensed under the MIT License.# MedDocsPrivacyPolicies
 # PrivacyUrl
+# PrivacyUrl
